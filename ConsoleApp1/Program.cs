@@ -12,9 +12,6 @@ namespace ConsoleApp1
         {
             string s = "ggh";
 
-
-            Console.WriteLine("dd");
-
         }
     }
 }
